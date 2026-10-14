@@ -64,6 +64,17 @@ h2 {
   text-decoration: none;
   letter-spacing: .2px;
   font-size: 1.05rem;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+}
+
+.brand-sub {
+  font-size: .68rem;
+  font-weight: 600;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--muted);
 }
 
 .nav-links {
@@ -172,6 +183,15 @@ h2 {
 .section-alt { background: var(--ice); }
 
 .section p { color: var(--ink); font-size: 1.05rem; }
+
+.welcome-text {
+  font-size: 1.18rem;
+  line-height: 1.7;
+  color: var(--blue);
+  font-weight: 600;
+  border-left: 4px solid var(--blue-light);
+  padding-left: 1.1rem;
+}
 
 /* ---------- Cards ---------- */
 .cards {

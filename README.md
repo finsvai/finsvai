@@ -1,7 +1,7 @@
-# Finlandssvensk AI
+# FinSvAI – Finlandssvensk AI
 
-Webbplats för föreningen **Finlandssvensk AI r.f.** – ett nätverk för finlandssvenskar
-som arbetar med, forskar om eller är nyfikna på artificiell intelligens.
+Webbplats för **FinSvAI**, ett samlande initiativ kring AI och svenskan i Finland, lett av
+Helsingfors universitet i nära samarbete med Åbo Akademi.
 
 ## Lokal förhandsvisning
 
