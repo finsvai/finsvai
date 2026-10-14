@@ -1,7 +1,6 @@
 # FinSvAI – Finlandssvensk AI
 
-Webbplats för **FinSvAI**, ett samlande initiativ kring AI och svenskan i Finland, lett av
-Helsingfors universitet i nära samarbete med Åbo Akademi.
+Webbplats för **FinSvAI**, ett samlande initiativ kring AI och svenskan i Finland.
 
 ## Lokal förhandsvisning
 
